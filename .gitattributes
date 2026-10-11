@@ -1,0 +1,7 @@
+# 텍스트 파일은 저장소에 항상 LF 로 저장 (RDK X5 = 리눅스)
+* text=auto eol=lf
+
+# 파이썬/문서
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
